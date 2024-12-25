@@ -1,4 +1,4 @@
-# Healthcare Analytics Power BI Project
+# Healthcare Analytics
 
 ## Objective
 
