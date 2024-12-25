@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Department,Admission_Date,Discharge_Date,Satisfaction_Score
+1,45,M,Cardiology,2024-01-10,2024-01-15,4
+2,60,F,Neurology,2024-01-12,2024-01-18,5
+3,30,M,Orthopedics,2024-01-14,2024-01-20,3
+4,50,F,Cardiology,2024-01-16,2024-01-19,4
+5,40,M,Orthopedics,2024-01-17,2024-01-22,2

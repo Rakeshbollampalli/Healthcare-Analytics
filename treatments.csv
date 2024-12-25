@@ -1,0 +1,6 @@
+Patient_ID,Treatment_Type,Treatment_Date,Department
+1,Surgery,2024-01-12,Cardiology
+2,Therapy,2024-01-15,Neurology
+3,Surgery,2024-01-16,Orthopedics
+4,Consultation,2024-01-17,Cardiology
+5,Surgery,2024-01-19,Orthopedics
