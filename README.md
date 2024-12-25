@@ -1,4 +1,4 @@
-[resources.csv](https://github.com/user-attachments/files/18245665/resources.csv)# Healthcare Analytics Power BI Project
+# Healthcare Analytics Power BI Project
 
 ## Objective
 
